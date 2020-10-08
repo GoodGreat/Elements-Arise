@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: 7dd68a3c84641e9428e9b1214c4bdf20
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bip_gob_mag
+    100002: bip_gob_magHead
+    100004: bip_gob_magHeadBone001
+    100006: bip_gob_magHeadBone002
+    100008: bip_gob_magLCalf
+    100010: bip_gob_magLCollarbone
+    100012: bip_gob_magLDigit11
+    100014: bip_gob_magLDigit11 1
+    100016: bip_gob_magLDigit12
+    100018: bip_gob_magLDigit21
+    100020: bip_gob_magLDigit22
+    100022: bip_gob_magLDigit31
+    100024: bip_gob_magLDigit32
+    100026: bip_gob_magLFoot
+    100028: bip_gob_magLForearm
+    100030: bip_gob_magLIKTarget
+    100032: bip_gob_magLPalm
+    100034: bip_gob_magLPlatform
+    100036: bip_gob_magLThigh
+    100038: bip_gob_magLUpperarm
+    100040: bip_gob_magNeck1
+    100042: bip_gob_magNeck2
+    100044: bip_gob_magPelvis
+    100046: bip_gob_magRCalf
+    100048: bip_gob_magRCollarbone
+    100050: bip_gob_magRDigit11
+    100052: bip_gob_magRDigit11 1
+    100054: bip_gob_magRDigit12
+    100056: bip_gob_magRDigit21
+    100058: bip_gob_magRDigit22
+    100060: bip_gob_magRDigit31
+    100062: bip_gob_magRDigit32
+    100064: bip_gob_magRFoot
+    100066: bip_gob_magRForearm
+    100068: bip_gob_magRibcage
+    100070: bip_gob_magRIKTarget
+    100072: bip_gob_magRPalm
+    100074: bip_gob_magRPlatform
+    100076: bip_gob_magRThigh
+    100078: bip_gob_magRUpperarm
+    100080: bip_gob_magSpine1
+    100082: bip_gob_magSpine2
+    100084: bip_gob_magSpine3
+    100086: bip_gob_magSpine4
+    100088: bon_gob_mag_cloth00
+    100090: bon_gob_mag_cloth01
+    100092: bon_gob_mag_ear L
+    100094: bon_gob_mag_ear R
+    100096: bon_gob_mag_ear R_tip
+    100098: bon_gob_mag_ear R_tip 1
+    100100: bon_gob_mag_face
+    100102: bon_gob_mag_hair
+    100104: bon_gob_mag_hair_tip
+    100106: bon_gob_mag_jaw
+    100108: bon_gob_mag_jaw_tip
+    100110: bon_gob_nag_cloth_tip
+    100112: bon_gob_war_mag_tip
+    100114: //RootNode
+    100116: goblin mage
+    100118: goblin mage armor
+    100120: goblin mage boot A
+    100122: goblin mage boot B
+    100124: goblin mage cap
+    100126: goblin mage hair
+    100128: goblin mage mask
+    100130: goblin mage mohican
+    100132: goblin mage ponny tail
+    100134: goblin mage skull
+    100136: goblin mage staff A
+    100138: goblin mage staff B
+    100140: goblin mage staff C
+    100142: goblin mage wrist armor L
+    100144: goblin mage wrist armor R
+    100146: goblin mage wrist armor R001
+    400000: bip_gob_mag
+    400002: bip_gob_magHead
+    400004: bip_gob_magHeadBone001
+    400006: bip_gob_magHeadBone002
+    400008: bip_gob_magLCalf
+    400010: bip_gob_magLCollarbone
+    400012: bip_gob_magLDigit11
+    400014: bip_gob_magLDigit11 1
+    400016: bip_gob_magLDigit12
+    400018: bip_gob_magLDigit21
+    400020: bip_gob_magLDigit22
+    400022: bip_gob_magLDigit31
+    400024: bip_gob_magLDigit32
+    400026: bip_gob_magLFoot
+    400028: bip_gob_magLForearm
+    400030: bip_gob_magLIKTarget
+    400032: bip_gob_magLPalm
+    400034: bip_gob_magLPlatform
+    400036: bip_gob_magLThigh
+    400038: bip_gob_magLUpperarm
+    400040: bip_gob_magNeck1
+    400042: bip_gob_magNeck2
+    400044: bip_gob_magPelvis
+    400046: bip_gob_magRCalf
+    400048: bip_gob_magRCollarbone
+    400050: bip_gob_magRDigit11
+    400052: bip_gob_magRDigit11 1
+    400054: bip_gob_magRDigit12
+    400056: bip_gob_magRDigit21
+    400058: bip_gob_magRDigit22
+    400060: bip_gob_magRDigit31
+    400062: bip_gob_magRDigit32
+    400064: bip_gob_magRFoot
+    400066: bip_gob_magRForearm
+    400068: bip_gob_magRibcage
+    400070: bip_gob_magRIKTarget
+    400072: bip_gob_magRPalm
+    400074: bip_gob_magRPlatform
+    400076: bip_gob_magRThigh
+    400078: bip_gob_magRUpperarm
+    400080: bip_gob_magSpine1
+    400082: bip_gob_magSpine2
+    400084: bip_gob_magSpine3
+    400086: bip_gob_magSpine4
+    400088: bon_gob_mag_cloth00
+    400090: bon_gob_mag_cloth01
+    400092: bon_gob_mag_ear L
+    400094: bon_gob_mag_ear R
+    400096: bon_gob_mag_ear R_tip
+    400098: bon_gob_mag_ear R_tip 1
+    400100: bon_gob_mag_face
+    400102: bon_gob_mag_hair
+    400104: bon_gob_mag_hair_tip
+    400106: bon_gob_mag_jaw
+    400108: bon_gob_mag_jaw_tip
+    400110: bon_gob_nag_cloth_tip
+    400112: bon_gob_war_mag_tip
+    400114: //RootNode
+    400116: goblin mage
+    400118: goblin mage armor
+    400120: goblin mage boot A
+    400122: goblin mage boot B
+    400124: goblin mage cap
+    400126: goblin mage hair
+    400128: goblin mage mask
+    400130: goblin mage mohican
+    400132: goblin mage ponny tail
+    400134: goblin mage skull
+    400136: goblin mage staff A
+    400138: goblin mage staff B
+    400140: goblin mage staff C
+    400142: goblin mage wrist armor L
+    400144: goblin mage wrist armor R
+    400146: goblin mage wrist armor R001
+    2300000: goblin mage armor
+    2300002: goblin mage hair
+    2300004: goblin mage mask
+    2300006: goblin mage mohican
+    2300008: goblin mage skull
+    2300010: goblin mage staff A
+    2300012: goblin mage staff B
+    2300014: goblin mage staff C
+    2300016: goblin mage wrist armor L
+    2300018: goblin mage wrist armor R001
+    3300000: goblin mage armor
+    3300002: goblin mage hair
+    3300004: goblin mage mask
+    3300006: goblin mage mohican
+    3300008: goblin mage skull
+    3300010: goblin mage staff A
+    3300012: goblin mage staff B
+    3300014: goblin mage staff C
+    3300016: goblin mage wrist armor L
+    3300018: goblin mage wrist armor R001
+    4300000: goblin mage wrist armor L
+    4300002: goblin mage staff A
+    4300004: goblin mage staff B
+    4300006: goblin mage staff C
+    4300008: goblin mage wrist armor R001
+    4300010: goblin mage skull
+    4300012: goblin mage mohican
+    4300014: goblin mage hair
+    4300016: goblin mage mask
+    4300018: goblin mage armor
+    4300020: goblin mage
+    4300022: goblin mage cap
+    4300024: goblin mage boot A
+    4300026: goblin mage boot B
+    4300028: goblin mage ponny tail
+    7400000: idle
+    7400002: idle break 1
+    7400004: idle break 2
+    7400006: salute
+    7400008: jump simple
+    7400010: walk
+    7400012: run
+    7400014: run fast
+    7400016: 'crouch '
+    7400018: crouch walk
+    7400020: hit front
+    7400022: hit back
+    7400024: jump complete
+    7400026: falling
+    7400028: die
+    7400030: idle fight
+    7400032: idle break fight
+    7400034: axe attack
+    7400036: casting A
+    7400038: casting B
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: goblin mage
+    13700002: goblin mage boot A
+    13700004: goblin mage boot B
+    13700006: goblin mage cap
+    13700008: goblin mage ponny tail
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A
+    second: {fileID: 2100000, guid: c827a741185bba444b97941e7a171259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: staff
+    second: {fileID: 2100000, guid: d55922a0404fe3e469bec1351a7f8474, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'bip_gob_magSpine1'
+      : rotation error = 0.758221 deg\n\t'bip_gob_magRibcage' : rotation error = 1.568777
+      deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'bip_gob_magSpine1' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bip_gob_magRibcage' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bip_gob_magNeck1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle break 1
+      takeName: 
+      firstFrame: 120
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle break 2
+      takeName: 
+      firstFrame: 190
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: salute
+      takeName: 
+      firstFrame: 290
+      lastFrame: 369
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump simple
+      takeName: 
+      firstFrame: 370
+      lastFrame: 380
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: 
+      firstFrame: 385
+      lastFrame: 415
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: 
+      firstFrame: 420
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run fast
+      takeName: 
+      firstFrame: 455
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'crouch '
+      takeName: 
+      firstFrame: 485
+      lastFrame: 499
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: crouch walk
+      takeName: 
+      firstFrame: 500
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit front
+      takeName: 
+      firstFrame: 554
+      lastFrame: 564
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit back
+      takeName: 
+      firstFrame: 565
+      lastFrame: 575
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump complete
+      takeName: 
+      firstFrame: 580
+      lastFrame: 623
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: falling
+      takeName: 
+      firstFrame: 625
+      lastFrame: 665
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die
+      takeName: 
+      firstFrame: 668
+      lastFrame: 740
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle fight
+      takeName: 
+      firstFrame: 775
+      lastFrame: 820
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle break fight
+      takeName: 
+      firstFrame: 820
+      lastFrame: 870
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: axe attack
+      takeName: 
+      firstFrame: 890
+      lastFrame: 910
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casting A
+      takeName: 
+      firstFrame: 910
+      lastFrame: 940
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casting B
+      takeName: 
+      firstFrame: 940
+      lastFrame: 965
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: bip_gob_magPelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magSpine2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magSpine3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magNeck2
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLDigit11
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRDigit11
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bon_gob_mag_ear L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bon_gob_mag_ear R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bon_gob_mag_jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLDigit11 1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLDigit12
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLDigit21
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLDigit22
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLDigit31
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magLDigit32
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRDigit11 1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRDigit12
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRDigit21
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRDigit22
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRDigit31
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magRDigit32
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bip_gob_magSpine4
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: fantasy horde-goblin_mage(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_gob_mag
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: -0, y: 0, z: 0.6859447}
+      rotation: {x: 0.50000006, y: -0.50000006, z: -0.49999997, w: 0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_gob_magLIKTarget
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: -49.953682, y: 47.761642, z: 1.4240283}
+      rotation: {x: -0.41038153, y: 0.8913374, z: -0.07717309, w: -0.17649078}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1.0000006}
+    - name: bip_gob_magLPlatform
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: -6.9347906, y: 0, z: 9.99169}
+      rotation: {x: 0.49999994, y: -0.49999994, z: -0.50000006, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_gob_magRIKTarget
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: 60.331764, y: 47.723736, z: 1.4749404}
+      rotation: {x: -0.07704449, y: -0.17687613, z: -0.41072363, w: 0.89111453}
+      scale: {x: 1.0000004, y: 0.9999993, z: 1}
+    - name: bip_gob_magRPlatform
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: 16.27369, y: 0, z: -5.5414834}
+      rotation: {x: 0.43045926, y: -0.43045926, z: -0.56098557, w: 0.56098557}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin mage
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin mage boot A
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin mage boot B
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin mage cap
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin mage ponny tail
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin mage wrist armor R
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_gob_magPelvis
+      parentName: fantasy horde-goblin_mage(Clone)
+      position: {x: 0.00000047683716, y: 50.363426, z: -3.4677281}
+      rotation: {x: 0.49912703, y: -0.5008716, z: -0.4991269, w: 0.5008715}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: bon_gob_mag_cloth00
+      parentName: bip_gob_magPelvis
+      position: {x: -7.578699, y: 9.304027, z: -0.000005419393}
+      rotation: {x: -0.028302839, y: 0.67500347, z: 0.73662627, w: -0.030840406}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: bon_gob_mag_cloth01
+      parentName: bon_gob_mag_cloth00
+      position: {x: -19.278933, y: 0.0000043781492, z: -0.0000049620867}
+      rotation: {x: -0.0000066733583, y: -0.014147041, z: 0.000033717573, w: 0.9998999}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: bon_gob_nag_cloth_tip
+      parentName: bon_gob_mag_cloth01
+      position: {x: -13.889142, y: 0.0000053260615, z: -0.0000002794277}
+      rotation: {x: -0.0000011220842, y: -0.033147443, z: -0.0000051252496, w: 0.9994505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_gob_magSpine1
+      parentName: bip_gob_magPelvis
+      position: {x: -2.7610512, y: -0.21124959, z: -0.00000047683716}
+      rotation: {x: -0.000000059604645, y: -0.000000029802322, z: -0.14896055, w: 0.9888432}
+      scale: {x: 1.0000002, y: 1.0000004, z: 0.9999999}
+    - name: goblin mage armor
+      parentName: bip_gob_magSpine1
+      position: {x: 49.40978, y: 19.105505, z: -0.00000023841858}
+      rotation: {x: -0.0000000037252907, y: 0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: bip_gob_magSpine2
+      parentName: bip_gob_magSpine1
+      position: {x: -10.626213, y: 0, z: 0}
+      rotation: {x: 0.000000026312975, y: 0.000000053564335, z: 0.16985978, w: 0.98546827}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1}
+    - name: bip_gob_magSpine3
+      parentName: bip_gob_magSpine2
+      position: {x: -9.052113, y: 0, z: 0}
+      rotation: {x: -0.000000032474585, y: -0.0000000017276276, z: 0.08460928, w: 0.99641424}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: bip_gob_magSpine4
+      parentName: bip_gob_magSpine3
+      position: {x: -9.727638, y: 0.0000009536743, z: 0.00000047683716}
+      rotation: {x: -2.456346e-10, y: -0.000000024634831, z: -0.08669266, w: 0.99623513}
+      scale: {x: 0.99999976, y: 0.9999993, z: 0.99999976}
+    - name: bip_gob_magRibcage
+      parentName: bip_gob_magSpine4
+      position: {x: -13.108307, y: 0.00000047683716, z: 0}
+      rotation: {x: -1.0759337e-11, y: -0.0000000012411315, z: 0.020822352, w: -0.9997832}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: bip_gob_magNeck1
+      parentName: bip_gob_magRibcage
+      position: {x: 0.10608673, y: 1.3585072, z: 0}
+      rotation: {x: 0.013663345, y: 0.00013909512, z: 0.0027854946, w: 0.9999028}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: bip_gob_magNeck2
+      parentName: bip_gob_magNeck1
+      position: {x: -4.684181, y: 0.00000047683716, z: 0}
+      rotation: {x: 0.013663918, y: 0.000045362012, z: -0.0040760683, w: -0.99989843}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: bip_gob_magHead
+      parentName: bip_gob_magNeck2
+      position: {x: -8.218048, y: 0, z: 0}
+      rotation: {x: 0.000000060535946, y: -0.000000030107902, z: 0.0068621635, w: -0.99997646}
+      scale: {x: 1.0000014, y: 1.0000014, z: 1.0000017}
+    - name: bip_gob_magHeadBone001
+      parentName: bip_gob_magHead
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0000000029103833, y: 0.000000029802322, z: -0.000000001862645,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: bip_gob_magHeadBone002
+      parentName: bip_gob_magHead
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0000000029103833, y: 0.000000029802322, z: -0.000000001862645,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: goblin mage hair
+      parentName: bip_gob_magHead
+      position: {x: 107.43539, y: 2.647777, z: 0.000002861023}
+      rotation: {x: 0.7071068, y: 0.000000051366474, z: -0.7071068, w: 0.000000051366474}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin mage mask
+      parentName: bip_gob_magHead
+      position: {x: 105.55371, y: -3.099857, z: 10.100117}
+      rotation: {x: 0.7299256, y: -0.0051198653, z: -0.68256384, w: -0.03590485}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: goblin mage mohican
+      parentName: bip_gob_magHead
+      position: {x: 107.43539, y: 2.647777, z: 0.000002861023}
+      rotation: {x: 0.7071068, y: 0.00000002897596, z: -0.7071068, w: 0.00000002897596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goblin mage skull
+      parentName: bip_gob_magHead
+      position: {x: 107.43539, y: 2.647777, z: 0.000002861023}
+      rotation: {x: 0.7071068, y: 0.00000002897596, z: -0.7071068, w: 0.00000002897596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bon_gob_mag_hair
+      parentName: bip_gob_magHead
+      position: {x: -14.20977, y: -2.7782946, z: 0.0000076293945}
+      rotation: {x: -0.90184855, y: -0.43205228, z: -0.00000005122273, w: -0.00000021886075}
+      scale: {x: 1.0000007, y: 1.0000015, z: 1.0000006}
+    - name: bon_gob_mag_hair_tip
+      parentName: bon_gob_mag_hair
+      position: {x: -24.916056, y: -0.00000023841858, z: 0.0000024259084}
+      rotation: {x: 0, y: -0, z: -0.031099664, w: 0.9995163}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: bon_gob_mag_jaw
+      parentName: bip_gob_magHead
+      position: {x: -0.17311853, y: 3.8811479, z: 0.0000076293945}
+      rotation: {x: 0.46909815, y: -0.8831461, z: 0.00000030506533, w: -0.000000028068172}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000007}
+    - name: bon_gob_war_mag_tip
+      parentName: bon_gob_mag_jaw
+      position: {x: -17.405525, y: -0.00000023841858, z: -0.0000019053206}
+      rotation: {x: -3.3196598e-16, y: -3.5371702e-15, z: -0.093440115, w: 0.9956249}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: bon_gob_mag_face
+      parentName: bip_gob_magHead
+      position: {x: -7.15271, y: 7.1657906, z: 0.0000076293945}
+      rotation: {x: 0.6736264, y: -0.73907214, z: 0.0000001641247, w: -0.00000006974999}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000013}
+    - name: bon_gob_mag_jaw_tip
+      parentName: bon_gob_mag_face
+      position: {x: -13.8246155, y: 0.000028312206, z: -0.0000015206824}
+      rotation: {x: 0, y: 0, z: 0.06529482, w: 0.99786603}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bon_gob_mag_ear R
+      parentName: bip_gob_magHead
+      position: {x: -5.5496864, y: 2.6477993, z: -8.094879}
+      rotation: {x: -0.668873, y: -0.5129625, z: -0.22936533, w: 0.48669273}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000005}
+    - name: bon_gob_mag_ear R_tip 1
+      parentName: bon_gob_mag_ear R
+      position: {x: -15.94815, y: -0.000008940697, z: -0.0000031682932}
+      rotation: {x: 1.7763568e-15, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bon_gob_mag_ear L
+      parentName: bip_gob_magHead
+      position: {x: -5.5496883, y: 2.6478016, z: 8.526718}
+      rotation: {x: 0.48700273, y: -0.22235675, z: -0.512668, w: -0.67123574}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: bon_gob_mag_ear R_tip
+      parentName: bon_gob_mag_ear L
+      position: {x: -15.653539, y: 0, z: 0.00000029134694}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bip_gob_magRCollarbone
+      parentName: bip_gob_magRibcage
+      position: {x: 1.0486145, y: 2.1959062, z: -3.7779188}
+      rotation: {x: -0.02582749, y: -0.76603025, z: 0.15505983, w: 0.6232873}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: bip_gob_magRUpperarm
+      parentName: bip_gob_magRCollarbone
+      position: {x: -9.103295, y: 0.0000019073486, z: 0}
+      rotation: {x: -0.20745526, y: 0.0902788, z: -0.11100681, w: 0.96772397}
+      scale: {x: 1.000001, y: 1.0000011, z: 1.0000005}
+    - name: bip_gob_magRForearm
+      parentName: bip_gob_magRUpperarm
+      position: {x: -28.706364, y: -0.0000038146973, z: 0}
+      rotation: {x: 0.11084391, y: 0.02903911, z: -0.032352664, w: 0.99288654}
+      scale: {x: 1.0000004, y: 0.9999997, z: 1.0000007}
+    - name: goblin mage wrist armor R001
+      parentName: bip_gob_magRForearm
+      position: {x: -23.63844, y: -4.359028, z: -74.14346}
+      rotation: {x: 0.3467894, y: 0.09806468, z: 0.9229662, w: -0.13510717}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000002}
+    - name: bip_gob_magRPalm
+      parentName: bip_gob_magRForearm
+      position: {x: -27.005478, y: 0, z: 0}
+      rotation: {x: 0.6896045, y: -0.056684602, z: 0.016565388, w: 0.7217743}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000008}
+    - name: goblin mage staff A
+      parentName: bip_gob_magRPalm
+      position: {x: -6.2327595, y: -4.108738, z: -4.8570786}
+      rotation: {x: 0.99049544, y: 0.08019835, z: -0.11131394, w: -0.009810306}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: goblin mage staff B
+      parentName: bip_gob_magRPalm
+      position: {x: -8.147641, y: -4.2702065, z: -3.853344}
+      rotation: {x: 0.63593984, y: 0.76360554, z: -0.07089873, w: -0.086373955}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000005}
+    - name: goblin mage staff C
+      parentName: bip_gob_magRPalm
+      position: {x: -6.4131136, y: -3.8501472, z: -2.97328}
+      rotation: {x: 0.63593984, y: 0.76360554, z: -0.070898816, w: -0.086373895}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000005}
+    - name: bip_gob_magRDigit11 1
+      parentName: bip_gob_magRPalm
+      position: {x: -1.9618912, y: -1.0343246, z: -2.7621098}
+      rotation: {x: -0.47781953, y: -0.2203843, z: -0.06631461, w: 0.84777457}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000014}
+    - name: bip_gob_magRDigit12
+      parentName: bip_gob_magRDigit11 1
+      position: {x: -6.214649, y: 0, z: 0}
+      rotation: {x: -0, y: -0.000000119209275, z: 0.22419944, w: 0.97454333}
+      scale: {x: 0.9999993, y: 1.0000002, z: 0.99999976}
+    - name: bip_gob_magRDigit21
+      parentName: bip_gob_magRPalm
+      position: {x: -8.323859, y: -0.323246, z: -2.7411861}
+      rotation: {x: -0.035867095, y: -0.11478276, z: 0.076936536, w: 0.9897572}
+      scale: {x: 0.99999964, y: 1.0000015, z: 1.0000012}
+    - name: bip_gob_magRDigit22
+      parentName: bip_gob_magRDigit21
+      position: {x: -5.735878, y: 0, z: -0.0000019073486}
+      rotation: {x: -0.00000030547366, y: -0.000000037252885, z: 0.09657031, w: 0.99532616}
+      scale: {x: 1.0000007, y: 0.99999946, z: 1.0000001}
+    - name: bip_gob_magRDigit31
+      parentName: bip_gob_magRPalm
+      position: {x: -8.422733, y: -0.5844612, z: 1.2077103}
+      rotation: {x: 0.021949936, y: -0.10839928, z: 0.079554826, w: 0.990676}
+      scale: {x: 0.99999976, y: 1.0000018, z: 1.0000021}
+    - name: bip_gob_magRDigit32
+      parentName: bip_gob_magRDigit31
+      position: {x: -6.0210342, y: -0.0000019073486, z: -0.0000019073486}
+      rotation: {x: -0.0000008427423, y: -0.000000071624896, z: 0.15659617, w: 0.98766273}
+      scale: {x: 1.0000012, y: 0.9999991, z: 0.99999946}
+    - name: bip_gob_magLCollarbone
+      parentName: bip_gob_magRibcage
+      position: {x: 1.0486145, y: 2.1959066, z: 3.7779198}
+      rotation: {x: -0.025827734, y: -0.7660304, z: -0.15506014, w: -0.6232871}
+      scale: {x: 1.0000005, y: 0.9999999, z: 0.99999994}
+    - name: bip_gob_magLUpperarm
+      parentName: bip_gob_magLCollarbone
+      position: {x: -9.103296, y: -0.0000009536743, z: -0.0000076293945}
+      rotation: {x: 0.20745528, y: -0.09027921, z: -0.11100694, w: 0.96772385}
+      scale: {x: 1.0000002, y: 1.0000015, z: 1.0000011}
+    - name: bip_gob_magLForearm
+      parentName: bip_gob_magLUpperarm
+      position: {x: -28.706367, y: -0.0000019073486, z: 0}
+      rotation: {x: -0.110844105, y: -0.02903894, z: -0.032352347, w: 0.99288654}
+      scale: {x: 1.0000004, y: 0.99999946, z: 0.99999946}
+    - name: goblin mage wrist armor L
+      parentName: bip_gob_magLForearm
+      position: {x: -23.638428, y: -4.359022, z: 74.14347}
+      rotation: {x: 0.92296636, y: 0.13510698, z: 0.34678906, w: -0.09806467}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.0000001}
+    - name: bip_gob_magLPalm
+      parentName: bip_gob_magLForearm
+      position: {x: -27.005486, y: 0.0000019073486, z: 0}
+      rotation: {x: -0.6896045, y: 0.0566837, z: 0.016564462, w: 0.7217743}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000004}
+    - name: bip_gob_magLDigit11 1
+      parentName: bip_gob_magLPalm
+      position: {x: -1.9618931, y: -1.0343094, z: 2.7621107}
+      rotation: {x: 0.47781986, y: 0.22038433, z: -0.06631423, w: 0.84777445}
+      scale: {x: 0.99999934, y: 1.0000002, z: 1.0000004}
+    - name: bip_gob_magLDigit12
+      parentName: bip_gob_magLDigit11 1
+      position: {x: -6.214653, y: 0, z: -0.0000019073486}
+      rotation: {x: -0.000000022351742, y: -0.000000029802322, z: 0.22419947, w: 0.97454333}
+      scale: {x: 1.0000005, y: 0.99999964, z: 0.99999994}
+    - name: bip_gob_magLDigit21
+      parentName: bip_gob_magLPalm
+      position: {x: -8.323866, y: -0.32325363, z: 2.741187}
+      rotation: {x: 0.035867088, y: 0.114783585, z: 0.07693604, w: 0.9897571}
+      scale: {x: 0.9999994, y: 1, z: 1.0000001}
+    - name: bip_gob_magLDigit22
+      parentName: bip_gob_magLDigit21
+      position: {x: -5.735882, y: -0.0000019073486, z: 0.0000009536743}
+      rotation: {x: 0.00000007823106, y: -0.000000018626443, z: 0.096570194, w: 0.9953262}
+      scale: {x: 1, y: 1.0000005, z: 0.9999996}
+    - name: bip_gob_magLDigit31
+      parentName: bip_gob_magLPalm
+      position: {x: -8.4227295, y: -0.584465, z: -1.2077131}
+      rotation: {x: -0.021949697, y: 0.10840034, z: 0.07955482, w: 0.9906759}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.9999999}
+    - name: bip_gob_magLDigit32
+      parentName: bip_gob_magLDigit31
+      position: {x: -6.0210342, y: 0, z: -0.0000009536743}
+      rotation: {x: 0.00000072284564, y: 0.00000019801111, z: 0.15659639, w: 0.9876627}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000001}
+    - name: bip_gob_magRThigh
+      parentName: bip_gob_magPelvis
+      position: {x: -1.0401192, y: 2.8359575, z: -7.9052453}
+      rotation: {x: -0.110544056, y: 0.99093205, z: 0.027867705, w: -0.07111399}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000007}
+    - name: bip_gob_magRCalf
+      parentName: bip_gob_magRThigh
+      position: {x: -24.040716, y: 0.0000019073486, z: -0.000005722046}
+      rotation: {x: 0.0066398215, y: -0.006745158, z: 0.33829638, w: 0.940992}
+      scale: {x: 1.0000023, y: 1.0000029, z: 1.0000012}
+    - name: bip_gob_magRFoot
+      parentName: bip_gob_magRCalf
+      position: {x: -25.036175, y: 0.00000047683716, z: -0.0000019073486}
+      rotation: {x: 0.038166698, y: -0.057489548, z: -0.76276964, w: 0.642978}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.99999994}
+    - name: bip_gob_magRDigit11
+      parentName: bip_gob_magRFoot
+      position: {x: -15.749674, y: 0, z: 0}
+      rotation: {x: 0.000024607405, y: -0.00016666576, z: -0.14630076, w: 0.9892402}
+      scale: {x: 1.0000026, y: 0.9999989, z: 1.0000025}
+    - name: bip_gob_magLThigh
+      parentName: bip_gob_magPelvis
+      position: {x: -1.0401192, y: 2.8359573, z: 7.9052453}
+      rotation: {x: -0.11054447, y: 0.990932, z: -0.027867462, w: 0.07111307}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000007}
+    - name: bip_gob_magLCalf
+      parentName: bip_gob_magLThigh
+      position: {x: -24.040714, y: 0.0000038146973, z: 0.00000333786}
+      rotation: {x: -0.0066388384, y: 0.006743229, z: 0.3382962, w: 0.9409922}
+      scale: {x: 1.000002, y: 1.0000021, z: 1.0000026}
+    - name: bip_gob_magLFoot
+      parentName: bip_gob_magLCalf
+      position: {x: -25.036175, y: 0.00000047683716, z: -0.00000047683716}
+      rotation: {x: -0.038170718, y: 0.05748859, z: -0.76282513, w: 0.64291203}
+      scale: {x: 1.0000023, y: 1.0000006, z: 1.0000017}
+    - name: bip_gob_magLDigit11
+      parentName: bip_gob_magLFoot
+      position: {x: -15.749673, y: 0, z: 0.00000047683716}
+      rotation: {x: -0.00002420693, y: 0.00016385685, z: -0.14621504, w: 0.9892528}
+      scale: {x: 1.0000011, y: 0.99999976, z: 1.0000004}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
